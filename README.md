@@ -1,0 +1,2 @@
+# fintech
+A fintech magazine
